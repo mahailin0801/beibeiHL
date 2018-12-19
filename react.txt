@@ -1,5 +1,5 @@
 
-一、react 环境脚手架的搭建
+一、react 环境脚手架的搭建 111111111
 
 	1） 全局安装： cnpm i create-react-app -g
 
@@ -534,6 +534,9 @@
 					)
 				}
 			}
+
+
+19 wo shi lian xi de hai
 
 			
 
